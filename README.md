@@ -1,4 +1,11 @@
-### Hi there 👋
+## Recent missions
+
+* **Project:** In-Vehicle Infotainment system applications<br>
+  **Client:** Renault Nissan Mitsubishi Alliance<br>
+  **Mission:** Developping apps for new AIVI (Advanced In-Vehicle Infotainment) system.<br>
+  **Tech stack:** Node.js / Vue.js / JS / Media API / Obigo Automotive SDK / PubSub
+* 
+
 
 <!--
 **danieltorscho/danieltorscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
