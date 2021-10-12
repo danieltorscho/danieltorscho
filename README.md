@@ -1,4 +1,4 @@
-<h3>Things I code with</h3>
+<h3>Experience:</h3>
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
