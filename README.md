@@ -28,6 +28,33 @@
 ## Recent client's project
 
 <details>
+  <summary>&nbsp;<b>Fullstack developer</b> in ADEO Services</summary>
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137220305-e5a980c4-bfbf-4562-abb5-685b5eab3bd3.png"></td>
+      <td>
+        <b>Project:</b> Marketplace Cloud services<br>
+        <b>Client:</b> ADEO<br>
+        <b>Mission:</b> Development of Cloud functions and microservices<br>
+        <b>Stack:</b> Node.js / Vue.js / Kafka / PubSub / GCP / NoSQL / Cloud Storage / TDD / BDD / GitHub Actions / GCP Cloud Engine / GCP Cloud Compute / GCP Cloud run<br>
+      </td>
+    </tr>
+  </table>
+  <p>
+    Creating a cloud service for categorizing the products across multiple e-commerce platforms. Distribution the data between various servers.
+  </p>
+  <ul>
+    <li>Cloud functions development</li>
+    <li>Integration with Google Cloud Platform</li>
+    <li>Front-end application for internal operators</li>
+    <li>Database transactions optimization.</li>
+    <li>Progressive code refactoring + code coverage with functional and unit tests</li>
+    <li>Microservices development, establishing communication between all services.</li>
+  </ul>
+</details>
+
+<details>
   <summary>&nbsp;<b>Tech Lead</b> in Renault (RNM Alliance)</summary>
   &nbsp;
   <table>
@@ -107,3 +134,70 @@
     </tr>
   </table>
 </details>
+
+<details>
+  <summary>&nbsp;<b>Frontend developer</b> in Peugeot Citroen</summary>
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137219289-afccd4e7-a1c4-4b36-96f9-114a809d622a.png"></td>
+      <td>
+        <b>Project:</b> PSA Groupe DSII<br>
+        <b>Client:</b> PSA Groupe<br>
+        <b>Mission:</b> Widget development for all projects.<br>
+        <b>Stack:</b> Symfony 2 / Twig Templating / PHP / HTML / LESS / CSS / JS / Node.js / Bootstrap / Responsive / Gulp / SVN<br>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary>&nbsp;<b>Backend developer</b> in Sogec Marketing</summary>
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137219568-c92a79c8-a71a-425c-8a3c-27e4df460982.png"></td>
+      <td>
+        <b>Project:</b> Digital Vouchers platform<br>
+        <b>Client:</b> La Poste - Sogec Digital<br>
+        <b>Mission:</b> Development of a payment platform for digital vouchers across offline stores.<br>
+        <b>Stack:</b> PHP / API / WebServices / RESTful / SOAP/XML / MySQL / Database Integrity / CodeIgniter 2 / SVN<br>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary>&nbsp;Archived projects</summary>
+  &nbsp;
+  <ul>
+    <li>MC AUTO 91 - Achat Vente Entretien</li>
+    <li>Bureau de Traduction</li>
+    <li>Alena Scade - Project Manager</li>
+    <li>Doskaa</li>
+    <li>Ajurveda Kalendula - Slovakia</li>
+    <li>GazetFR</li>
+    <li>CodeIgniter 2.x Template Library</li>
+    <li>Kizlyar.sk 3.0 - Official distributor of Kizlyar knives in Slovak Republic</li>
+    <li>S&M Cars</li>
+    <li>Groupon Voyages</li>
+    <li>Box Club Stavbár Nitra - Official BCS Nitra page</li>
+    <li>Ekaterina Ponomareva Diary - Photographer's photoblog</li>
+    <li>Ecotour.com - 1ère agence de voyages lowcost</li>
+    <li>Govoyages - Séjours</li>
+    <li>Rabota.fr - Advertisement board</li>
+    <li>Westfinreal Leasing s.r.o.</li>
+    <li>Société Générale - Vidéos recrutement</li>
+    <li>Slovak Amateur Boxing Association (SABA)</li>
+    <li>Baranik.sk - Selling of Honey and Bee products</li>
+    <li>SARL Markiz - Tour and Tourism</li>
+    <li>Stylissimo</li>
+    <li>Stroj.sk - Constrution and Engineering</li>
+    <li>Moje Taxi s.r.o. - Cheapest Taxi services in region of Nitra</li>
+    <li>Kizlyar.sk 2.0 - Official distributor of Kizlyar knives in Slovak Republic</li>
+    <li>Gracie Barra Pitbull Nitra - Brazilian Jiu-Jitsu and Grappling Vale Tudo</li>
+    <li>WFR Taxi - Luxury international taxi and transport services</li>
+  </ul>
+</details>
+
+
