@@ -1,5 +1,3 @@
-
-
 ### Working with
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,13 +23,12 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
 ## Recent client's project
 
 <details>
-  <summary>&nbsp;[2018 - 2019]&nbsp;<b>Tech Lead</b> in Renault (RNM Alliance)</summary>
+  <summary>&nbsp;<b>Tech Lead</b> in Renault (RNM Alliance)</summary>
   &nbsp;
   <table>
     <tr>
@@ -44,7 +41,6 @@
       </td>
     </tr>
   </table>
-  
   <p>
     Développement d'une nouvelle version d'IVI (In-Vehicle Infotaiment)
     pour l'alliance Renault - Nissan - Mitsubishi. Développement des applications
@@ -65,7 +61,7 @@
 </details>
 
 <details>
-  <summary>&nbsp;[2018]&nbsp;<b>Lead front</b> in La Roche Posay / 1000Mercis </summary>
+  <summary>&nbsp;<b>Lead front</b> in La Roche Posay / 1000Mercis </summary>
   &nbsp;
   <table>
     <tr>
@@ -73,25 +69,41 @@
       <td>
         <b>Project:</b> SpotScan EFFACLAR<br>
         <b>Client:</b> La Roche Posay / L'Oreal / 1000Mercis<br>
-        <b>Mission:</b> Development of the PWA Application for scanning the skin via Camera.<br>
+        <b>Mission:</b> Development of the PWA Application for scanning the face skin via Camera.<br>
         <b>Stack:</b> Vue.js / Node.js / JS / Media API / i18n<br>
       </td>
     </tr>
   </table>
 </details>
 
+<details>
+  <summary>&nbsp;<b>Tech Lead</b> in Ericsson</summary>
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137208497-1b0d91d1-0906-494c-8b75-83ea8896c306.png" style="width: 200px;height: auto; float: left;"></td>
+      <td>
+        <b>Project:</b> Hyperion - Alarm management system for Operators<br>
+        <b>Client:</b> Télédiffusion de France TDF<br>
+        <b>Mission:</b> Creating a new system of Alarm management system for Operators.<br>
+        <b>Stack:</b> Vue.js / Node.js / PHP / Laravel / Kafka / Websocket / Azure<br>
+      </td>
+    </tr>
+  </table>
+</details>
 
-<!--
-**danieltorscho/danieltorscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>&nbsp;<b>Full-stack developer</b> in Fast and Shine</summary>
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137216501-e5574d25-6f6e-4454-876d-ee350cd46b6d.png" style="width: 200px;height: auto; float: left;"></td>
+      <td>
+        <b>Project:</b> Monitoring system for the apps<br>
+        <b>Client:</b> Fast and Shine<br>
+        <b>Mission:</b> Creating an application and monitoring system for Orders, Clients, Partners management.<br>
+        <b>Stack:</b> Laravel 5 / Blade Templating / PHP / HTML / LESS / CSS / JS / Node.js / Bootstrap / Responsive / Gulp / GIT / WebServices / RESTful API / Hubspot API / Google Analytics / Yandex Metric / Google Analytics Events / Google Analytics Goals / SEO<br>
+      </td>
+    </tr>
+  </table>
+</details>
