@@ -28,36 +28,41 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-## Recent missions
-
-
-
-
-
-
 ## Recent client's project
 
 <details>
   <summary>&nbsp;[2018 - 2019]&nbsp;<b>Tech Lead</b> in Renault (RNM Alliance)</summary>
-  <img src="https://user-images.githubusercontent.com/726563/137168176-b9c889f8-8781-4ade-90cd-a7b02ad1f41f.png" style="width: 200px;height: auto; float: left;">
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137168176-b9c889f8-8781-4ade-90cd-a7b02ad1f41f.png" style="width: 200px;height: auto; float: left;"></td>
+      <td>
+        <b>Project:</b> In-Vehicle Infotainment system applications<br>
+        <b>Client:</b> Renault Nissan Mitsubishi Alliance<br>
+        <b>Mission:</b> Developping apps for new AIVI (Advanced In-Vehicle Infotainment) system<br>
+        <b>Stack:</b> Node.js / Vue.js / JS / Media API / Obigo Automotive SDK / PubSub<br>
+      </td>
+    </tr>
+  </table>
+  
+  <p>
+    Développement d'une nouvelle version d'IVI (In-Vehicle Infotaiment)
+    pour l'alliance Renault - Nissan - Mitsubishi. Développement des applications
+    online (microservices) pour l'automobile.
+  </p>
   <ul>
-    <li>
-      <b>Project:</b>
-      In-Vehicle Infotainment system applications
-    </li>
-    <li>
-      <b>Client:</b>
-      Renault Nissan Mitsubishi Alliance
-    </li>
-    <li>
-      <b>Mission:</b>
-      Developping apps for new AIVI (Advanced In-Vehicle Infotainment) system.
-    </li>
-    <li>
-      <b>Tech stack:</b>
-      Node.js / Vue.js / JS / Media API / Obigo Automotive SDK / PubSub
-    </li>  
+    <li>Mettre en place des bonnes pratiques de la collaboration en méthodologie Agile (Scrum et Kanban)</li>
+    <li>Développement des applications native</li>
+    <li>Mise en place des pratiques de DevOps</li>
+    <li>Intégration du workflow de développement en mode TDD (Test Driven Development)</li>
+    <li>Intégration des tests unitaires, des tests fonctionnels et des tests Frontends (End to End)</li>
+    <li>Mettre en place l'environnement de dev</li>
+    <li>Animation de l'équipe des devs et l'avancement des projets</li>
+    <li>Réfactoring du code progressive</li>
+    <li>Développement de microservice SA, centralisation des intéractions avec un système IVI</li>
+    <li>Determiné des blocages dans le systèm, amelioration dans l'environnement de dev</li>
   </ul>
+    
 </details>
 
 
