@@ -62,7 +62,22 @@
     <li>Développement de microservice SA, centralisation des intéractions avec un système IVI</li>
     <li>Determiné des blocages dans le systèm, amelioration dans l'environnement de dev</li>
   </ul>
-    
+</details>
+
+<details>
+  <summary>&nbsp;[2018]&nbsp;<b>Lead front</b> in La Roche Posay / 1000Mercis </summary>
+  &nbsp;
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/726563/137191648-69f0afb4-3d01-40f3-8397-d095dc17eb6c.png" style="width: 200px;height: auto; float: left;"></td>
+      <td>
+        <b>Project:</b> SpotScan EFFACLAR<br>
+        <b>Client:</b> La Roche Posay / L'Oreal / 1000Mercis<br>
+        <b>Mission:</b> Development of the PWA Application for scanning the skin via Camera.<br>
+        <b>Stack:</b> Vue.js / Node.js / JS / Media API / i18n<br>
+      </td>
+    </tr>
+  </table>
 </details>
 
 
