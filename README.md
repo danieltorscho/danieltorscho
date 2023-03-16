@@ -1,4 +1,5 @@
 ### Working with
+<img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=danieltorscho&count_private=true&include_all_commits=true" />
 <p>
   <img alt="FRONTEND" src="https://img.shields.io/badge/-FRONTEND:-555?style=for-the-badge&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -209,4 +210,9 @@
   </ul>
 </details>
 
+<img src="https://github-profile-trophy.vercel.app/?username=danieltorscho&column=7"/>
+
+<a href="https://stackoverflow.com/users/884143/aspirinemaga?tab=profile">
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/884143?color=orange" alt="Stackoverflow">
+</a>
 
