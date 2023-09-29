@@ -210,9 +210,11 @@
   </ul>
 </details>
 
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=danieltorscho&column=7"/>
 
 <a href="https://stackoverflow.com/users/884143/aspirinemaga?tab=profile">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/884143?color=orange" alt="Stackoverflow">
 </a>
+-->
 
